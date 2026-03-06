@@ -1,2 +1,2 @@
 # arnold_pipeline
-Placeholder for original Arnold redirect
+Placeholder for [Arnold redirect](https://github.com/ArtifactHQ/Arnold)
